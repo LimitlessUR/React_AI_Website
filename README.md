@@ -1,4 +1,4 @@
-My First venture into React :) 
+Great lesson in React fundamentals and material UI 
 
 ![ai2](https://user-images.githubusercontent.com/86543368/173089507-627c0a34-d4d9-4fb8-9034-ecd080befeeb.png)
 
